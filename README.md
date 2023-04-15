@@ -1,2 +1,1 @@
 # resnet50
-# resnet50
